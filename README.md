@@ -1,2 +1,2 @@
 # Dashboard_XboxGamePass_Matheus
-Essa é uma planilha feita como projeto da DIO para formar uma dashboard de vendas da Xbox, utilizando diversos dos conhecimento que adquirimos durante o curso
+Essa é uma planilha feita como projeto da DIO para formar uma Dashboard de vendas da Xbox, utilizando diversos dos conhecimento que adquirimos durante o curso, tais como as segmentações de dados e uso de gráficos para entregar informações de vendas e não apenas para jogar dados ao ar, esse foi meu último projeto da DIO e fiquei muito feliz finalizando o curso aprendendo diversas coisas que nem achei que eram possíveis com o excel.  
